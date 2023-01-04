@@ -1,0 +1,28 @@
+#mynav{
+	background:#f1f1f1;
+}
+#mynav .nav-link{
+	color:#000;
+	font-weight:bold;
+}
+#banner h1{
+	color:orange;
+}
+.mybtn{
+	border-radius:30px;
+	background:orange;
+	border:2px solid red;
+}
+#hy{
+	background:lightwhite;
+}
+#hy h4{
+	color:orange;
+}
+#honey img{
+	border-radius:200px 0px 0px 0px;
+	height:500px;
+}
+#honey a{
+	border-radius:0px 0px 25px 25px;
+}
